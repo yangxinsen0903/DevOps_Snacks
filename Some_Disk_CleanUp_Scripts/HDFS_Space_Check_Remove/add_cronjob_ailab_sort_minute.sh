@@ -2,7 +2,7 @@
 
 set -x 
 
-sudo azcopy copy https://usp1prod1abcdw.blob.core.windows.net/config/dw/scripts/disk0_clean.sh /home/hadoop/
+sudo azcopy copy https://xxx/disk0_clean.sh /home/hadoop/
 
 sudo chmod +x /home/hadoop/disk0_clean.sh
 
