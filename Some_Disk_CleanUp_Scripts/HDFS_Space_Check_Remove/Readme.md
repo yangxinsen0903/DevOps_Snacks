@@ -1,5 +1,3 @@
-# SREUS-4026
-
 ## Notes:
 Scpripts for removing HDFS/non-HDFS files older than 3 days for EMR cluster prod-ailab-sort-minute-l-001.
 
